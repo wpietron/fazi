@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T08:10:23.137Z" agent="5.0 (Windows)" etag="1W-z3vV9ZgI4rp2B_ynH" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T08:11:39.488Z" agent="5.0 (Windows)" etag="F2e4KiEaFCha55J4ScK0" version="14.2.9" type="github">
   <diagram id="jl-lqksZDpXuRrx-7xOV" name="Page-1">
     <mxGraphModel dx="1182" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="pUGiUn1GgULjH6ZH7vq9-12" value="&lt;div&gt;Nie martwię się, że zostaję w tyle&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pUGiUn1GgULjH6ZH7vq9-13" value="&lt;div&gt;Nie martwię się, że zostaję w tyle&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pUGiUn1GgULjH6ZH7vq9-13" value="Nie martwię się o utratę pracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
