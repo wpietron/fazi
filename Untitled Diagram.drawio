@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T08:02:15.996Z" agent="5.0 (Windows)" etag="02StZTNk5kK11tqfLXXO" version="14.2.9" type="github"><diagram id="jl-lqksZDpXuRrx-7xOV" name="Page-1">5ZjLctsgFIafRkvP6GZFWtZq0namaZt6kU42HSKdSiSS8CBkWTx9wUJ3e+K4F3naleEHDvD9wLGtWX66e0fRJr4lISSaqYc7zXqrmaZhuKb4kEqlFNdxayWiOFRaJ6wxByXqSi1wCPmgIyMkYXgzFAOSZRCwgYYoJeWw2w+SDGfdoAgmwjpAyVS9xyGLa9U1rzr9PeAobmY2HK9uSVHTWe0kj1FIyp5kXWuWTwlhdSnd+ZBIeg2XetzNkdZ2YRQydsoAzsG7+/b5A75Jb7+v87vFvf9xoaJsUVKoDWumk4h4qxBvRTGSxYcUowzJySgKqqaDmKnXR+2RVQ04SoosBDm3LprLGDNYb1AgW0txVoQWszQRNaMdvQXKYHd0e0YLTRw3ICkwKhajqwFXuuKsTprV1MvONqPxIu5Z5igNqZMStaE7mKKgeL6CrXkS2xJrvq153nPOIcMgIfKA15rmLzVvFWDJPi/JE0RETiqXdcSESfykeJRDsqwK4gt1zrg046wDxo0YQRa+ka+LqAUJynMcHMIC4eRxGUERQUlBA3jpGE3h9egsD8BpNAoJYng7XMYhYmqGLwSLBbbeWN7IHHcEvV6+GtV/fUaBhK2DQOK+DgMxRCNgk0B7A9ttn++pfcplXPPqMef727aRd881EZO1ZwphxTTf0lZWeaG3aGkOARvW3NdoOUH+lfCypvgkGjgqiciI1fzoRmfTtudG50zQfdqnhhRR1iQMyawtiml0eWJXvuzGSc5Qrx8lIcdZW+XyC1l9vosIpXh2A0zPHqWAmflfvZwB5mbUApkNkveqNJmRDORri/J4T804L2HOlQhtd/hGONaZiXAcaGGMDfrDmbD5uvV/+OaMfbPP9G0c6O/7dui32j/rW/ts/apv40ALY/m7fBPV7ud73b37F8S6/gk=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-02T08:02:55.149Z" agent="5.0 (Windows)" etag="oqGK6CzH29fsdcttaCfW" version="14.2.9" type="github">
+  <diagram id="jl-lqksZDpXuRrx-7xOV" name="Page-1">
+    <mxGraphModel dx="1182" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zze9QXOIiFmM_SsQ-WCL-1" value="&lt;div&gt;Zmiana pracy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zze9QXOIiFmM_SsQ-WCL-2" value="&lt;div&gt;Zwiększenie szczęścia swojego i/&lt;/div&gt;&lt;div&gt;lub innych&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zze9QXOIiFmM_SsQ-WCL-3" value="" style="endArrow=classic;html=1;" parent="1" source="zze9QXOIiFmM_SsQ-WCL-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="230" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zze9QXOIiFmM_SsQ-WCL-4" value="&lt;div&gt;Szybsza spłata kredytów&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zze9QXOIiFmM_SsQ-WCL-5" value="Rozwój zawodowy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zze9QXOIiFmM_SsQ-WCL-6" value="Nie martwię się, że zostawię rodzinę z długami" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zze9QXOIiFmM_SsQ-WCL-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zze9QXOIiFmM_SsQ-WCL-9" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="630" as="sourcePoint" />
+            <mxPoint x="480" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zze9QXOIiFmM_SsQ-WCL-10" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="640" as="sourcePoint" />
+            <mxPoint x="680" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zze9QXOIiFmM_SsQ-WCL-11" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="640" as="sourcePoint" />
+            <mxPoint x="260" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
