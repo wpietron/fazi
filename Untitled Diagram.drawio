@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T08:11:39.488Z" agent="5.0 (Windows)" etag="F2e4KiEaFCha55J4ScK0" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T08:17:08.432Z" agent="5.0 (Windows)" etag="ZieGim1mL-QDhsEq1kgo" version="14.2.9" type="github">
   <diagram id="jl-lqksZDpXuRrx-7xOV" name="Page-1">
     <mxGraphModel dx="1182" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="pUGiUn1GgULjH6ZH7vq9-4" value="Cel życia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="-90" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pUGiUn1GgULjH6ZH7vq9-5" value="" style="endArrow=classic;html=1;exitX=1.025;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.042;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zze9QXOIiFmM_SsQ-WCL-2" target="zze9QXOIiFmM_SsQ-WCL-7">
+        <mxCell id="pUGiUn1GgULjH6ZH7vq9-5" value="" style="endArrow=classic;html=1;exitX=1.025;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zze9QXOIiFmM_SsQ-WCL-2" target="zze9QXOIiFmM_SsQ-WCL-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="270" as="sourcePoint" />
             <mxPoint x="440" y="220" as="targetPoint" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="pUGiUn1GgULjH6ZH7vq9-13" value="Nie martwię się o utratę pracy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pUGiUn1GgULjH6ZH7vq9-14" value="&lt;div&gt;Mocno zwiększę szczęście swoje lub innych jeśli ...&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="115" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
